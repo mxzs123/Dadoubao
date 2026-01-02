@@ -1,0 +1,18 @@
+# PRD document (private)
+prd.md
+
+# Compiled binary
+voicebridge
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
